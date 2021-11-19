@@ -1,20 +1,20 @@
 
-# Tesla Clone
+# File System
 
-The clone is made using react-native which contains basic features like having a look at tesla's latest car models and clicking on that will open other page where you will get details for that model.
+The app is made using react-native and redux-toolkit which contains basic features like creating folders/files view them modify and delete them
 
 
 ## Features
-
+- choice of creating folders/files
+- select, modify and delete
 - Fullscreen mode
 - Cross platform
-- Tesla latest models
-- Description of models
+- CRUD
 
   
 ## Demo
 Make sure you have expo installed in your mobile
-https://expo.dev/@vicky29/tesla-clone
+https://expo.dev/@vicky29/drive
 
   
 ## Run Locally
@@ -22,7 +22,7 @@ https://expo.dev/@vicky29/tesla-clone
 Clone the project
 
 ```bash
-  git clone git@github.com:vickyshaw29/TeslaClone-react-native.git
+  git clone git@github.com:vickyshaw29/file-system.git
 ```
 
 Go to the project directory
